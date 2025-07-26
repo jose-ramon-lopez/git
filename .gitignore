@@ -1,0 +1,8 @@
+# ignore logs
+*.log
+
+## Cualquier directorio, cualquier nivel que se llame logs
+**/logs
+
+## Cualquier directorio, cualquier nivel que se llame Debug o debug
+**/[Dd]ebug
